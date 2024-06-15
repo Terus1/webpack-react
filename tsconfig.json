@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "tsx": "react",
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
